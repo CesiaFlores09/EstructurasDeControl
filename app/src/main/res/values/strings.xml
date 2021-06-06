@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EstructurasDeControl</string>
+    <string name="If">Condicional if</string>
+    <string name="Bienvenidos">BIENVENIDOS</string>
+    <string name="Estructuras">Estructuras De Control</string>
+    <string name="fr">Ciclo for</string>
+    <string name="when">Ciclo when</string>
+    <string name="whil">Ciclo while</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="Resultado">Resultado</string>
+    <string name="Regresar">Regresar</string>
+    <string name="numer">Ingrese un mumero</string>
+    <string name="Ejemplo">Ejemplo</string>
+    <string name="Salir">Salir</string>
+    <string name="Mensaje">Mensaje</string>
+</resources>
